@@ -1,4 +1,4 @@
-# AVM - Quizz
+# AVM - Quizz 🧠💪
 
 ## Description
 Quizzing website “AVM Quizz” using front-end technologies like React.js and JavaScript having an attractive UI.
